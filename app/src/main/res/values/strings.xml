@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BelajarListView</string>
+    <string-array name="country_array">
+        <item>Afganistan</item>
+        <item>Albania</item>
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+    </string-array>
+</resources>
